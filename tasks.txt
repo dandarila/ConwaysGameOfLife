@@ -1,0 +1,4 @@
+next button 
+
+clear button 
+last state in local storage
